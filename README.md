@@ -1,5 +1,3 @@
-# asia-pacific-airport-simulation
-A Java concurrency simulation of six aircraft sharing one runway, three gates, and one refuelling truck, with landing priority for a low-fuel aircraft.
 # Asia Pacific Airport Simulation
 
 A Java console simulation of six aircraft sharing one runway, three gates, and one refuelling truck. I built it as an individual assignment for the Concurrent Programming module at Asia Pacific University.
